@@ -1,0 +1,9 @@
+package udemy_java_eclipse_exercises;
+
+public class Account {
+
+	public Account() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

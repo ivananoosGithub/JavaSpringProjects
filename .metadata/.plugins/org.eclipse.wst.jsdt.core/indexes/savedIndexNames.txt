@@ -1,0 +1,1 @@
+INDEX VERSION 1.4+C:\Users\ivana\eclipse-workspace\udemy_java_eclipse\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes

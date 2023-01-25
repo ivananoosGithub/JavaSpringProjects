@@ -1,0 +1,16 @@
+/**
+ * 
+ */
+package udemy_java_eclipse_exercises;
+
+/**
+ * @author Ivan Kim Anoos
+ *
+ */
+public class UdemyJava {
+	public static void main(String[] args) {
+		
+		long hotdog = 100000000;
+		System.out.printf("Long hotdog is: %d", hotdog);
+	}
+}

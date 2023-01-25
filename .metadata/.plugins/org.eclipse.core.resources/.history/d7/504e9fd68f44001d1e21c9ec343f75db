@@ -1,0 +1,12 @@
+package udemy_java_eclipse_exercises;
+
+public class Rectangle {
+	
+	private float length;
+	private float width;
+
+	public Rectangle() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

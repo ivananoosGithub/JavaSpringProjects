@@ -1,0 +1,5 @@
+package com.ivankimanoos.springsecurity.demo.config;
+
+public class DemoAppConfig {
+
+}

@@ -1,0 +1,8 @@
+package com.ivankimanoos.springboot.cruddemo.dao;
+
+
+
+public interface EmployeeDAO {
+	
+	public List<Employee> findAll();
+}

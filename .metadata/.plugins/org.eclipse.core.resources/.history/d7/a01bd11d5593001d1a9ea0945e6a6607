@@ -1,0 +1,23 @@
+<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<title>ivankimanoos Company Home Page</title>
+	</head>
+
+	<body>
+		<h2>ivankimanoos Company Home Page</h2>
+		<hr>
+		
+		<p>
+		WELCOME POTANG INA MOOOOOOOOOhahahwwwwwwwwwwwwwww
+		</p>
+		
+		<form:form action="${pageContext.request.contextPath}/logout" method="POST">
+			
+		</form:form>
+	</body>
+
+</html>

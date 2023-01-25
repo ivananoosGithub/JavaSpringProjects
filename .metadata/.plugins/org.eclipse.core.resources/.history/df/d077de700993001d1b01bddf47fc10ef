@@ -1,0 +1,9 @@
+package com.ivankimanoos.springdemo.aspect;
+
+import org.aspectj.lang.annotation.Aspect;
+
+@Aspect
+@Component
+public class CRMLoggingAspect {
+	
+}

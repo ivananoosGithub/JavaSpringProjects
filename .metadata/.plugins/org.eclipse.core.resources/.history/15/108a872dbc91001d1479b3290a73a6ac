@@ -1,0 +1,10 @@
+package com.ivankimanoos.springdemo.dao;
+
+import java.util.List;
+
+import com.ivankimanoos.springdemo.entity.Customer;
+
+public interface CustomerDAO {
+	
+	public List<Customer> getCustomers();
+}

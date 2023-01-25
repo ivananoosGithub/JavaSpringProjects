@@ -1,0 +1,9 @@
+package com.ivankimanoos.aopdemo;
+
+public class MainDemoApp {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

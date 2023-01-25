@@ -1,0 +1,13 @@
+package udemy_java_eclipse_exercises;
+
+public class Date {
+	
+	int[] day = {1,31};
+	int[] month = {1,12};
+	int[] year = {1900,9999};
+
+	public Date() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

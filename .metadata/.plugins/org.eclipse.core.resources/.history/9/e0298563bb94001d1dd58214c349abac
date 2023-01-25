@@ -1,0 +1,8 @@
+package com.ivankimanoos.springboot.demo.myfirstspringbootapp.rest;
+
+
+
+public class FunRestController {
+
+	
+}

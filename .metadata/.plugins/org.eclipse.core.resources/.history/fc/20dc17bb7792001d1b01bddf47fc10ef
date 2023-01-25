@@ -1,0 +1,6 @@
+package com.ivankimanoos.aopdemo;
+
+@Configuration
+public class DemoConfig {
+	
+}

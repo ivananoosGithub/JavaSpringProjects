@@ -1,0 +1,7 @@
+#Tomcat publish data
+#Sun Jan 15 17:53:18 SGT 2023
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\ivana\\eclipse-workspace\\udemy_java_eclipse\\spring-mvc-demo\\WebContent\\WEB-INF\\lib\\spring-web-5.3.9-sources.jar=WEB-INF/lib/spring-web-5.3.9-sources.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\ivana\\eclipse-workspace\\udemy_java_eclipse\\spring-mvc-demo\\WebContent\\WEB-INF\\lib\\spring-web-5.3.9.jar=WEB-INF/lib/spring-web-5.3.9.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\ivana\\eclipse-workspace\\udemy_java_eclipse\\web-customer-tracker\\WebContent\\WEB-INF\\lib\\spring-web-5.3.9-sources.jar=WEB-INF/lib/spring-web-5.3.9-sources.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\ivana\\eclipse-workspace\\udemy_java_eclipse\\web-customer-tracker\\WebContent\\WEB-INF\\lib\\spring-web-5.3.9.jar=WEB-INF/lib/spring-web-5.3.9.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\ivana\\.m2\\repository\\org\\springframework\\spring-web\\6.0.3\\spring-web-6.0.3.jar=WEB-INF/lib/spring-web-6.0.3.jar

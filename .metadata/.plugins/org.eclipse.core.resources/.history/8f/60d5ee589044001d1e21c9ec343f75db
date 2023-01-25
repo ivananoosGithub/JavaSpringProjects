@@ -1,0 +1,15 @@
+package udemy_java_eclipse_exercises;
+
+public class Rectangle {
+	
+	private float length;
+	private float width;
+
+	public Rectangle() {
+		this.length = 1.0F;
+		this.width = 1.0F;
+	}
+	
+	
+
+}

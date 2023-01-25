@@ -1,0 +1,5 @@
+package com.ivankimanoos.springboot.thymeleaf.controller;
+
+public class DemoController {
+
+}

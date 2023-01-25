@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;21-hibernate-with-service-demo&apos; to &apos;myfirstspringbootapp-03&apos;" description="Rename resource &apos;21-hibernate-with-service-demo&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/21-hibernate-with-service-demo" name="myfirstspringbootapp-03" stamp="1673787447542" updateReferences="true"/>
+</session>

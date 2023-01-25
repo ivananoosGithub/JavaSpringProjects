@@ -1,0 +1,14 @@
+/**
+ * 
+ */
+package udemy_java_eclipse_exercises;
+
+/**
+ * @author Ivan Kim Anoos
+ *
+ */
+public class UdemyJava {
+	public static void main(String[] args) {
+		System.out.print("HELLO WOLRD POTANG INA MO!");
+	}
+}

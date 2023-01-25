@@ -1,0 +1,37 @@
+package udemy_java_eclipse_exercises.UdemyCodingPractice;
+
+import java.util.Scanner;
+
+public class SortedArray {
+	
+	
+	public static int [] getIntegers (int size) {
+		Scanner user_input = new Scanner(System.in);
+		int [] array = new int [size];
+		
+		for(int i = 0; i < array.length; i++) {
+			array [i] = user_input.nextInt();
+		}
+		
+		user_input.close();
+		
+		return array;
+	}
+	
+	public static void printArray(int[] array) {
+		for(int i = 0; i < array.length; i++) {
+			System.out.println("Element "+i+" contents "+array[i]);
+		}
+	}
+	
+	public static int [] sortIntegers (int[] array) {
+		int [] sorted_array = new int [array.length];
+		
+		for (int i = 0; i < array.length; i++) {
+			
+		}
+		
+		return sorted_array;
+	}
+
+}

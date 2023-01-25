@@ -1,0 +1,38 @@
+/**
+ * 
+ */
+package udemy_java_eclipse_exercises;
+
+import java.util.Scanner;
+
+/**
+ * @author Ivan Kim Anoos
+ *
+ */
+public class UdemyJava {
+	
+    static boolean isAnagram(String a, String b) {
+        // Complete the function
+        if(a.equalsIgnoreCase(b)){
+           
+                for(int j = a.length()-1; j>= 0 ; j--){
+                	
+                	 
+                }
+            
+            return true;
+        }
+        
+        else
+            return false;
+    }
+    
+	public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        String a = scan.next();
+        String b = scan.next();
+        scan.close();
+        boolean ret = isAnagram(a, b);
+        System.out.println( (ret) ? "Anagrams" : "Not Anagrams" );
+	}
+}

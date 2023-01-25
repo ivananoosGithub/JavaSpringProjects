@@ -1,0 +1,7 @@
+package com.ivankimanoos.aopdemo.dao;
+
+
+@Component
+public class AccountDAO {
+	
+}

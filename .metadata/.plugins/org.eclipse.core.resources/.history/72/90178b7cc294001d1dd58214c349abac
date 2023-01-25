@@ -1,0 +1,3 @@
+info.app.name = My First Spring Boot App
+infor.app.description = This is just a basic Spring Boot App for educational purposes.
+info.app.version = 1.0.0

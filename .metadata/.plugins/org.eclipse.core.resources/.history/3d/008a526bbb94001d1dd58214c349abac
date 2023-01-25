@@ -1,0 +1,9 @@
+package com.ivankimanoos.springboot.demo.myfirstspringbootapp.rest;
+
+
+@RestController
+public class FunRestController {
+
+	// expose "/" that return "Hello World"
+	
+}

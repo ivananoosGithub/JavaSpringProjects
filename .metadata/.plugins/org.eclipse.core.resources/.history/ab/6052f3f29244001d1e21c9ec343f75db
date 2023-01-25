@@ -1,0 +1,9 @@
+package udemy_java_eclipse_exercises;
+
+public class Employee {
+
+	public Employee() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

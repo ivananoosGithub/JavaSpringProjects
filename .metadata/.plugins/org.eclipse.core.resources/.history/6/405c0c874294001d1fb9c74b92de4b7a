@@ -1,0 +1,5 @@
+package com.ivankimanoos.springdemo.entity;
+
+public class Student {
+
+}

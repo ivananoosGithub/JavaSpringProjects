@@ -1,0 +1,16 @@
+package com.ivankimanoos.springboot.thymeleaf.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+
+@Controller
+public class DemoController {
+	
+	@GetMapping("/hello")
+	public String sayHelloWorld(Model theModel) {
+		
+		theModel.addAttribute("heheDate", new java.util.Date());
+		
+		return "hello";
+	}
+}

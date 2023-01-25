@@ -1,0 +1,18 @@
+package udemy_java_eclipse_exercises;
+
+public class InvoiceItem {
+	
+	String id;
+	String desc;
+	int qty;
+	double unitPrice;
+
+	public InvoiceItem(String ID, String description, int quantity, double unitPrice) {
+		this.id = ID;
+		this.desc = description;
+		this.qty = quantity;
+		this.unitPrice = unitPrice;
+		
+	}
+
+}

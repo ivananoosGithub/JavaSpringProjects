@@ -1,0 +1,5 @@
+package com.ivankimanoos.springboot.cruddemo.dao;
+
+public interface EmployeeDAO {
+	
+}

@@ -1,0 +1,6 @@
+package com.ivankimanoos.springboot.cruddemo.entity;
+
+public class Employee {
+
+	
+}

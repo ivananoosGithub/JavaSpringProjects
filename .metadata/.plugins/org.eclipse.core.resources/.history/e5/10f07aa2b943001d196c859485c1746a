@@ -1,0 +1,21 @@
+/**
+ * 
+ */
+package udemy_java_eclipse_exercises;
+
+/**
+ * @author Ivan Kim Anoos
+ *
+ */
+public class UdemyJava {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println();
+
+	}
+
+}
