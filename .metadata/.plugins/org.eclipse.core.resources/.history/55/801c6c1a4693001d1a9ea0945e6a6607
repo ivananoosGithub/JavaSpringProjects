@@ -1,8 +1,0 @@
-package com.ivankimanoos.springsecurity.demo.config;
-
-import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
-
-@Configuration
-public class DemoSecurityConfig extends WebSecurityConfigurerAdapter {
-	
-}

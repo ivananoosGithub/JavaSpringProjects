@@ -1,8 +1,0 @@
-package com.ivankimanoos.springsecurity.demo.config;
-
-@Configuration
-@EnableWebMvc
-@ComponentScan(basePackages="com.ivankimanoos.springsecurity.demo")
-public class DemoAppConfig {
-
-}

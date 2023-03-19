@@ -1,6 +1,0 @@
-package com.ivankimanoos.springdemo.service;
-
-public interface CustomerService {
-	
-	public List<Customer> getCustomers();
-}

@@ -1,7 +1,0 @@
-package com.ivankimanoos.springsecurity.demo.controller;
-
-
-@Controller
-public class DemoController {
-
-}
