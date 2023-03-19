@@ -1,7 +1,0 @@
-package com.ivankimanoos.springdemo.config;
-
-
-@Configuration
-public class DemoAppConfig {
-
-}

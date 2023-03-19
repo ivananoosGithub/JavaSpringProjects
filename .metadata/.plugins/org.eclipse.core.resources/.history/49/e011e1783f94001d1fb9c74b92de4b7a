@@ -1,7 +1,0 @@
-package com.ivankimanoos.springdemo.rest;
-
-@Controller
-@RequestMapping("/test")
-public class DemoRestController {
-	
-}

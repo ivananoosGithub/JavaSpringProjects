@@ -1,5 +1,0 @@
-package com.ivankimanoos.springboot.cruddemo.service;
-
-public interface EmployeeService {
-
-}

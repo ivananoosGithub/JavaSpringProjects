@@ -1,5 +1,0 @@
-package com.ivankimanoos.aopdemo.aspect;
-
-public class MyDemoLoggingAspect {
-
-}

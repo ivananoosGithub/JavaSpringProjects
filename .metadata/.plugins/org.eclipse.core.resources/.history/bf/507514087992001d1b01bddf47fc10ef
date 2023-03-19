@@ -1,9 +1,0 @@
-package com.ivankimanoos.aopdemo.aspect;
-
-import org.aspectj.lang.annotation.Aspect;
-
-@Aspect
-@Component
-public class MyDemoLoggingAspect {
-
-}

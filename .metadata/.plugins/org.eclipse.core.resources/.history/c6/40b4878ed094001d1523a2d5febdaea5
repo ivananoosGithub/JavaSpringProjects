@@ -1,6 +1,0 @@
-package com.ivankimanoos.springboot.cruddemo.service;
-
-public interface EmployeeService {
-
-	public List<Employee> theEmployee();
-}
